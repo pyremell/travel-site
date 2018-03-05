@@ -1,4 +1,4 @@
-// Imports in the 'export' from MobileMenu.js
+// Imports the 'export' from js modules
 import MobileMenu from './modules/MobileMenu'; 
 import RevealOnScroll from './modules/RevealOnScroll';
 import $ from 'jquery';

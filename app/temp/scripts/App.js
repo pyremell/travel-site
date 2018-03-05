@@ -11116,7 +11116,7 @@ var _Modal2 = _interopRequireDefault(_Modal);
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 // Designates the variable 'mobileMenu' is a new instance of the class 'MobileMenu'
-var mobileMenu = new _MobileMenu2.default(); // Imports in the 'export' from MobileMenu.js
+var mobileMenu = new _MobileMenu2.default(); // Imports the 'export' from js modules
 
 new _RevealOnScroll2.default((0, _jquery2.default)(".feature-item"), "85%");
 new _RevealOnScroll2.default((0, _jquery2.default)(".testimonial"), "60%");
